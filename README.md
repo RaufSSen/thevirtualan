@@ -1,2 +1,2 @@
 # The Virtualan
-# Sitemin Kaynal Kod Bölümü
+# Sitemin Kaynak Kod Bölümü
